@@ -1,7 +1,7 @@
 # Hi, I'm Dharmendra Yadav! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About me
-I'm a Web developer with equal interest in other programming languages too
+I'm a Web Python developer with equal interest in other programming languages too
 - 🔭 I’m currently working on Python/Django Projects
 ### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dkyadavweb)](https://github.com/dkyadavweb)
