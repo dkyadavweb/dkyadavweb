@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Dharmendra Yadav! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **dkyadavweb/dkyadavweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Hi, I'm Tuhin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dkyadavweb)](https://github.com/dkyadavweb)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharmendra-yadav/)](https://www.linkedin.com/in/dharmendra-yadav/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharmendra-yadav/)](https://www.linkedin.com/in/dharmendra-yadav/)
 
 ### About me
 I'm a Python developer with equal interest in other programming languages too.
