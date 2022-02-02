@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 
 # Hi, I'm Tuhin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tuhin-thinks)](https://github.com/tuhin-thinks)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuhin-mitra/)](https://www.linkedin.com/in/tuhin-mitra/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tuhinmi8ra)](https://twitter.com/tuhinmi8ra)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/pythonislove/)](https://www.youtube.com/pythonislove/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dkyadavweb)](https://github.com/dkyadavweb)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharmendra-yadav/)](https://www.linkedin.com/in/dharmendra-yadav/
 
 ### About me
 I'm a Python developer with equal interest in other programming languages too.
 
 - ðŸ”­ Iâ€™m currently working on *Competitive Coding Problems*
-<a href="https://github.com/tuhin-thinks/python-codes">
+<a href="https://github.com/dkyadavweb/django-blog-wbgenisys">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuhin-thinks&repo=python-codes&theme=dracula">
 </a>
 
