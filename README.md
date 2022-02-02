@@ -9,7 +9,7 @@ I'm a Python developer with equal interest in other programming languages too
 
 .
 
-- ðŸ”­ Iâ€™m currently working on *Competitive Coding Problems*
+# Django Blog Webgenisys
 <a href="https://github.com/dkyadavweb/django-blog-wbgenisys">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuhin-thinks&repo=python-codes&theme=dracula">
 </a>
