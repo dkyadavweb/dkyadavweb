@@ -48,15 +48,6 @@ I'm a Python developer with equal interest in other programming languages too.
 ![](https://img.shields.io/badge/javascript-%20-yellow)
 
 
-
-## &#x1f4c8; GitHub Stats
-
-![Tuhin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhin-thinks&hide=contribs,prs&show_icons=true&theme=dracula)
-
-[![Tuhin's Github stat's](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin-thinks&langs_count=5&theme=solarized-light)]()
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhin-thinks&" alt="tuhin-thinks" /></p>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
