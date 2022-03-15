@@ -5,7 +5,7 @@ I'm a Python Web Developer with equal interest in other programming languages to
 - 🔭 I’m currently working on Python/Django Projects
 ### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dkyadavweb)](https://github.com/dkyadavweb)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharmendra-yadav/)](https://www.linkedin.com/in/dharmendra-yadav/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkyadavweb/)](https://www.linkedin.com/in/dkyadavweb/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/dkyadavweb)](https://www.facebook.com/dkyadavweb)
 
 <h3 align="left">Languages and Tools:</h3>
